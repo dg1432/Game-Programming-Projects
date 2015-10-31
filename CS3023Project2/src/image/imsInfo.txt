@@ -1,0 +1,43 @@
+o background.jpg
+o heart.gif
+o Gunshot.gif
+
+s Player_back.gif 4
+s Player_front.gif 4
+s Player_left.gif 4
+s Player_right.gif 4
+
+s BlueSlime_back.gif 3
+s BlueSlime_left.gif 3
+s BlueSlime_right.gif 3
+s BlueSlime_front.gif 3
+
+s CyanSlime_back.gif 3
+s CyanSlime_left.gif 3
+s CyanSlime_right.gif 3
+s CyanSlime_front.gif 3
+
+s OrangeSlime_back.gif 3
+s OrangeSlime_left.gif 3
+s OrangeSlime_right.gif 3
+s OrangeSlime_front.gif 3
+
+s PinkSlime_back.gif 3
+s PinkSlime_left.gif 3
+s PinkSlime_right.gif 3
+s PinkSlime_front.gif 3
+
+s PurpleSlime_back.gif 3
+s PurpleSlime_left.gif 3
+s PurpleSlime_right.gif 3
+s PurpleSlime_front.gif 3
+
+s RedSlime_back.gif 3
+s RedSlime_left.gif 3
+s RedSlime_right.gif 3
+s RedSlime_front.gif 3
+
+s YellowSlime_back.gif 3
+s YellowSlime_left.gif 3
+s YellowSlime_right.gif 3
+s YellowSlime_front.gif 3

@@ -1,0 +1,19 @@
+// Interface sounds
+click click.wav
+
+// Gameplay sounds
+playerGrunt playerGrunt.wav
+gunShot gunShot.wav
+healthPickup healthPickup.wav
+firstBlood firstBlood.wav
+lookAtHimGo lookAtHimGo.wav
+
+// Game over sounds
+disgusting disgusting.wav
+whoIsThisGuy whoIsThisGuy.wav
+theyreNotEvenTrying theyreNotEvenTrying.wav
+youveDoneThisBefore youveDoneThisBefore.wav
+yourePrettyGood yourePrettyGood.wav
+wickedSick wickedSick.wav
+godLike godLike.wav
+over9000 over9000.wav
